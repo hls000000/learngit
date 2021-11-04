@@ -18,5 +18,7 @@ int main()
 			
 			printf("%d",array[a]);
     }
+    print("第一次修改") ; 
+    print(); 
 	return 0; 
 }
