@@ -20,6 +20,6 @@ int main()
     }
     print("第一次修改") ; 
     print("第二次修改"); 
-    print(("分支改动")); 
+    print("分支"); 
 	return 0; 
 }
